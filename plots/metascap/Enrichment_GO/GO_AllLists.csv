@@ -1,0 +1,64 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+GO Biological Processes,19,GO:1902895,positive regulation of miRNA transcription,19_GO:0048518 positive regulation of biological process,-4.6,52,12,30337,56,31,3,9.7,5.3,688|1956|1958,KLF5|EGFR|EGR1,-0.34,MyList
+GO Biological Processes,19,GO:2000630,positive regulation of miRNA metabolic process,19_GO:0048518 positive regulation of biological process,-4.4,44,11,30337,67,31,3,9.7,5.3,688|1956|1958,KLF5|EGFR|EGR1,-0.34,MyList
+GO Biological Processes,19,GO:1902893,regulation of miRNA transcription,19_GO:0008152 metabolic process,-4.2,39,11,30337,75,31,3,9.7,5.3,688|1956|1958,KLF5|EGFR|EGR1,-0.34,MyList
+GO Biological Processes,19,GO:2000628,regulation of miRNA metabolic process,19_GO:0008152 metabolic process,-4,33,9.6,30337,90,31,3,9.7,5.3,688|1956|1958,KLF5|EGFR|EGR1,-0.23,MyList
+GO Biological Processes,19,GO:0060828,regulation of canonical Wnt signaling pathway,19_GO:0050896 response to stimulus,-3.8,14,7.1,30337,270,31,4,13,6,1956|1958|6934|8994,EGFR|EGR1|TCF7L2|LIMD1,-0.22,MyList
+GO Biological Processes,19,GO:0048511,rhythmic process,19_GO:0048511 rhythmic process,-3.8,14,7.1,30337,271,31,4,13,6,1956|1958|3184|6421,EGFR|EGR1|HNRNPD|SFPQ,-0.22,MyList
+GO Biological Processes,19,GO:0051054,positive regulation of DNA metabolic process,19_GO:0048518 positive regulation of biological process,-3.6,13,6.8,30337,295,31,4,13,6,1956|3184|9577|55183,EGFR|HNRNPD|BABAM2|RIF1,-0.16,MyList
+WikiPathways,27,WP2431,Spinal cord injury,,-3.6,24,8.2,30337,120,31,3,9.7,5.3,1956|1958|5322,EGFR|EGR1|PLA2G5,-0.16,MyList
+GO Biological Processes,19,GO:0045739,positive regulation of DNA repair,19_GO:0048518 positive regulation of biological process,-3.5,22,7.7,30337,135,31,3,9.7,5.3,1956|9577|55183,EGFR|BABAM2|RIF1,-0.16,MyList
+GO Biological Processes,19,GO:0007623,circadian rhythm,19_GO:0048511 rhythmic process,-3.4,21,7.6,30337,138,31,3,9.7,5.3,1956|1958|3184,EGFR|EGR1|HNRNPD,-0.16,MyList
+GO Biological Processes,19,GO:0070482,response to oxygen levels,19_GO:0050896 response to stimulus,-3.4,11,6.2,30337,342,31,4,13,6,1902|1958|5034|8994,LPAR1|EGR1|P4HB|LIMD1,-0.16,MyList
+GO Biological Processes,19,GO:0030111,regulation of Wnt signaling pathway,19_GO:0050896 response to stimulus,-3.4,11,6.2,30337,343,31,4,13,6,1956|1958|6934|8994,EGFR|EGR1|TCF7L2|LIMD1,-0.16,MyList
+GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-3.4,11,6.2,30337,347,31,4,13,6,1956|3184|5516|7018,EGFR|HNRNPD|PPP2CB|TF,-0.16,MyList
+GO Biological Processes,19,GO:0090090,negative regulation of canonical Wnt signaling pathway,19_GO:0048519 negative regulation of biological process,-3.4,20,7.4,30337,145,31,3,9.7,5.3,1958|6934|8994,EGR1|TCF7L2|LIMD1,-0.16,MyList
+KEGG Pathway,24,hsa04390,Hippo signaling pathway,,-3.3,19,7.1,30337,157,31,3,9.7,5.3,5516|6934|8994,PPP2CB|TCF7L2|LIMD1,-0.092,MyList
+GO Biological Processes,19,GO:0006338,chromatin remodeling,19_GO:0009987 cellular process,-3.2,7.2,5.2,30337,682,31,5,16,6.6,1958|6421|8358|55183|84759,EGR1|SFPQ|H3C2|RIF1|PCGF1,-0.087,MyList
+KEGG Pathway,24,hsa04141,Protein processing in endoplasmic reticulum,,-3.2,17,6.8,30337,170,31,3,9.7,5.3,5034|6185|10905,P4HB|RPN2|MAN1A2,-0.046,MyList
+GO Biological Processes,19,GO:0030178,negative regulation of Wnt signaling pathway,19_GO:0048519 negative regulation of biological process,-3.1,17,6.7,30337,177,31,3,9.7,5.3,1958|6934|8994,EGR1|TCF7L2|LIMD1,-0.02,MyList
+GO Biological Processes,19,GO:0071345,cellular response to cytokine stimulus,19_GO:0050896 response to stimulus,-3.1,6.6,5,30337,737,31,5,16,6.6,688|1958|3587|5034|55183,KLF5|EGR1|IL10RA|P4HB|RIF1,-0.01,MyList
+GO Biological Processes,19,GO:0009314,response to radiation,19_GO:0050896 response to stimulus,-3,9.2,5.4,30337,426,31,4,13,6,1956|1958|9577|10002,EGFR|EGR1|BABAM2|NR2E3,-0.0056,MyList
+Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-3,6.2,4.7,30337,786,31,5,16,6.6,1958|3587|5034|5516|8358,EGR1|IL10RA|P4HB|PPP2CB|H3C2,0,MyList
+WikiPathways,27,WP3594,Circadian rhythm genes,,-2.9,15,6.2,30337,201,31,3,9.7,5.3,1958|3184|6421,EGR1|HNRNPD|SFPQ,0,MyList
+Reactome Gene Sets,6,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,,-2.9,8.4,5.2,30337,464,31,4,13,6,1956|3587|5516|6934,EGFR|IL10RA|PPP2CB|TCF7L2,0,MyList
+GO Biological Processes,19,GO:0071407,cellular response to organic cyclic compound,19_GO:0050896 response to stimulus,-2.9,8.4,5.1,30337,467,31,4,13,6,1956|1958|3184|10002,EGFR|EGR1|HNRNPD|NR2E3,0,MyList
+Reactome Gene Sets,6,R-HSA-449147,Signaling by Interleukins,,-2.9,8.3,5.1,30337,473,31,4,13,6,3587|5034|5516|8358,IL10RA|P4HB|PPP2CB|H3C2,0,MyList
+GO Biological Processes,19,GO:0043413,macromolecule glycosylation,19_GO:0008152 metabolic process,-2.8,13,5.9,30337,219,31,3,9.7,5.3,6185|10905|79623,RPN2|MAN1A2|GALNT14,0,MyList
+GO Biological Processes,19,GO:0006486,protein glycosylation,19_GO:0008152 metabolic process,-2.8,13,5.9,30337,219,31,3,9.7,5.3,6185|10905|79623,RPN2|MAN1A2|GALNT14,0,MyList
+GO Biological Processes,19,GO:0006282,regulation of DNA repair,19_GO:0050896 response to stimulus,-2.8,13,5.8,30337,225,31,3,9.7,5.3,1956|9577|55183,EGFR|BABAM2|RIF1,0,MyList
+GO Biological Processes,19,GO:0034976,response to endoplasmic reticulum stress,19_GO:0050896 response to stimulus,-2.8,13,5.8,30337,227,31,3,9.7,5.3,5034|5516|10905,P4HB|PPP2CB|MAN1A2,0,MyList
+Reactome Gene Sets,6,R-HSA-201681,TCF dependent signaling in response to WNT,,-2.8,13,5.7,30337,232,31,3,9.7,5.3,5516|6934|8358,PPP2CB|TCF7L2|H3C2,0,MyList
+GO Biological Processes,19,GO:0051052,regulation of DNA metabolic process,19_GO:0008152 metabolic process,-2.8,7.7,4.9,30337,508,31,4,13,6,1956|3184|9577|55183,EGFR|HNRNPD|BABAM2|RIF1,0,MyList
+GO Biological Processes,19,GO:0070085,glycosylation,19_GO:0008152 metabolic process,-2.8,12,5.7,30337,235,31,3,9.7,5.3,6185|10905|79623,RPN2|MAN1A2|GALNT14,0,MyList
+GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-2.7,7.5,4.8,30337,524,31,4,13,6,688|1958|4154|6934,KLF5|EGR1|MBNL1|TCF7L2,0,MyList
+Reactome Gene Sets,6,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,-2.7,7.3,4.7,30337,534,31,4,13,6,1956|1958|5516|57610,EGFR|EGR1|PPP2CB|RANBP10,0,MyList
+GO Biological Processes,19,GO:0071396,cellular response to lipid,19_GO:0050896 response to stimulus,-2.7,7.3,4.7,30337,536,31,4,13,6,1902|1956|3184|10002,LPAR1|EGFR|HNRNPD|NR2E3,0,MyList
+GO Biological Processes,19,GO:0010817,regulation of hormone levels,19_GO:0065007 biological regulation,-2.7,7.2,4.7,30337,541,31,4,13,6,1956|1958|5034|6934,EGFR|EGR1|P4HB|TCF7L2,0,MyList
+GO Biological Processes,19,GO:0040029,epigenetic regulation of gene expression,19_GO:0008152 metabolic process,-2.6,11,5.2,30337,270,31,3,9.7,5.3,1958|8358|55183,EGR1|H3C2|RIF1,0,MyList
+GO Biological Processes,19,GO:0032103,positive regulation of response to external stimulus,19_GO:0048518 positive regulation of biological process,-2.6,6.8,4.5,30337,572,31,4,13,6,1902|4363|5322|6421,LPAR1|ABCC1|PLA2G5|SFPQ,0,MyList
+Reactome Gene Sets,6,R-HSA-1257604,PIP3 activates AKT signaling,,-2.6,11,5.2,30337,273,31,3,9.7,5.3,1956|1958|5516,EGFR|EGR1|PPP2CB,0,MyList
+GO Biological Processes,19,GO:0009101,glycoprotein biosynthetic process,19_GO:0008152 metabolic process,-2.6,11,5.1,30337,277,31,3,9.7,5.3,6185|10905|79623,RPN2|MAN1A2|GALNT14,0,MyList
+GO Biological Processes,19,GO:1901137,carbohydrate derivative biosynthetic process,19_GO:0008152 metabolic process,-2.5,6.6,4.4,30337,597,31,4,13,6,6185|7378|10905|79623,RPN2|UPP1|MAN1A2|GALNT14,0,MyList
+GO Biological Processes,19,GO:0030100,regulation of endocytosis,19_GO:0051179 localization,-2.5,9.9,4.9,30337,296,31,3,9.7,5.3,1902|5322|7018,LPAR1|PLA2G5|TF,0,MyList
+GO Biological Processes,19,GO:0001666,response to hypoxia,19_GO:0050896 response to stimulus,-2.4,9.7,4.9,30337,302,31,3,9.7,5.3,1958|5034|8994,EGR1|P4HB|LIMD1,0,MyList
+WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling,,-2.4,9.7,4.9,30337,303,31,3,9.7,5.3,1902|1956|5516,LPAR1|EGFR|PPP2CB,0,MyList
+Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-2.4,6.2,4.2,30337,634,31,4,13,6,1325|1902|1956|5516,CORT|LPAR1|EGFR|PPP2CB,0,MyList
+Reactome Gene Sets,6,R-HSA-9006925,Intracellular signaling by second messengers,,-2.4,9.3,4.7,30337,315,31,3,9.7,5.3,1956|1958|5516,EGFR|EGR1|PPP2CB,0,MyList
+GO Biological Processes,19,GO:0036293,response to decreased oxygen levels,19_GO:0050896 response to stimulus,-2.4,9.3,4.7,30337,316,31,3,9.7,5.3,1958|5034|8994,EGR1|P4HB|LIMD1,0,MyList
+Reactome Gene Sets,6,R-HSA-418594,G alpha (i) signalling events,,-2.4,9.2,4.7,30337,318,31,3,9.7,5.3,1325|1902|5516,CORT|LPAR1|PPP2CB,0,MyList
+GO Biological Processes,19,GO:0104004,cellular response to environmental stimulus,19_GO:0050896 response to stimulus,-2.4,9.2,4.7,30337,320,31,3,9.7,5.3,1956|1958|9577,EGFR|EGR1|BABAM2,0,MyList
+GO Biological Processes,19,GO:0071214,cellular response to abiotic stimulus,19_GO:0050896 response to stimulus,-2.4,9.2,4.7,30337,320,31,3,9.7,5.3,1956|1958|9577,EGFR|EGR1|BABAM2,0,MyList
+Reactome Gene Sets,6,R-HSA-195721,Signaling by WNT,,-2.3,8.9,4.6,30337,331,31,3,9.7,5.3,5516|6934|8358,PPP2CB|TCF7L2|H3C2,0,MyList
+KEGG Pathway,24,hsa05165,Human papillomavirus infection,,-2.3,8.8,4.6,30337,333,31,3,9.7,5.3,1956|5516|6934,EGFR|PPP2CB|TCF7L2,0,MyList
+GO Biological Processes,19,GO:0009100,glycoprotein metabolic process,19_GO:0008152 metabolic process,-2.3,8.8,4.6,30337,333,31,3,9.7,5.3,6185|10905|79623,RPN2|MAN1A2|GALNT14,0,MyList
+WikiPathways,27,WP4172,PI3K Akt signaling,,-2.3,8.7,4.5,30337,339,31,3,9.7,5.3,1902|1956|5516,LPAR1|EGFR|PPP2CB,0,MyList
+Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-2.2,5.5,3.9,30337,709,31,4,13,6,1325|1902|1956|5516,CORT|LPAR1|EGFR|PPP2CB,0,MyList
+GO Biological Processes,19,GO:0009895,negative regulation of catabolic process,19_GO:0048519 negative regulation of biological process,-2.2,8.2,4.4,30337,356,31,3,9.7,5.3,1956|3184|3587,EGFR|HNRNPD|IL10RA,0,MyList
+KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-2.2,8.1,4.4,30337,362,31,3,9.7,5.3,1902|1956|5516,LPAR1|EGFR|PPP2CB,0,MyList
+GO Biological Processes,19,GO:0006979,response to oxidative stress,19_GO:0050896 response to stimulus,-2.2,8,4.3,30337,368,31,3,9.7,5.3,1956|4363|5516,EGFR|ABCC1|PPP2CB,0,MyList
+GO Biological Processes,19,GO:0006259,DNA metabolic process,19_GO:0008152 metabolic process,-2.2,5.3,3.8,30337,734,31,4,13,6,6421|6934|9577|55183,SFPQ|TCF7L2|BABAM2|RIF1,0,MyList
+GO Biological Processes,19,GO:0019221,cytokine-mediated signaling pathway,19_GO:0050896 response to stimulus,-2.2,7.6,4.2,30337,385,31,3,9.7,5.3,1958|3587|5034,EGR1|IL10RA|P4HB,0,MyList
+GO Biological Processes,19,GO:2001233,regulation of apoptotic signaling pathway,19_GO:0050896 response to stimulus,-2.1,7.4,4.1,30337,396,31,3,9.7,5.3,5034|6421|6934,P4HB|SFPQ|TCF7L2,0,MyList
+WikiPathways,27,WP3888,VEGFA VEGFR2 signaling,,-2,6.8,3.9,30337,432,31,3,9.7,5.3,1958|5034|5322,EGR1|P4HB|PLA2G5,0,MyList
+GO Biological Processes,19,GO:0031349,positive regulation of defense response,19_GO:0048518 positive regulation of biological process,-2,6.7,3.9,30337,436,31,3,9.7,5.3,4363|5322|6421,ABCC1|PLA2G5|SFPQ,0,MyList

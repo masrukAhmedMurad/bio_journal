@@ -1,0 +1,27 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,GO Biological Processes,19,GO:0051054,positive regulation of DNA metabolic process,19_GO:0048518 positive regulation of biological process,-5.2,32,11,30337,295,13,4,31,13,1956|3184|9577|55183,EGFR|HNRNPD|BABAM2|RIF1,-0.91
+MyList,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-5,27,10,30337,347,13,4,31,13,1956|3184|5516|7018,EGFR|HNRNPD|PPP2CB|TF,-0.91
+MyList,GO Biological Processes,19,GO:0045739,positive regulation of DNA repair,19_GO:0048518 positive regulation of biological process,-4.6,52,12,30337,135,13,3,23,12,1956|9577|55183,EGFR|BABAM2|RIF1,-0.76
+MyList,GO Biological Processes,19,GO:0051052,regulation of DNA metabolic process,19_GO:0008152 metabolic process,-4.3,18,8.2,30337,508,13,4,31,13,1956|3184|9577|55183,EGFR|HNRNPD|BABAM2|RIF1,-0.57
+MyList,GO Biological Processes,19,GO:0006282,regulation of DNA repair,19_GO:0050896 response to stimulus,-4,31,9.4,30337,225,13,3,23,12,1956|9577|55183,EGFR|BABAM2|RIF1,-0.37
+MyList,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-3.9,15,7.2,30337,634,13,4,31,13,1325|1902|1956|5516,CORT|LPAR1|EGFR|PPP2CB,-0.37
+MyList,GO Biological Processes,19,GO:0006338,chromatin remodeling,19_GO:0009987 cellular process,-3.8,14,6.9,30337,682,13,4,31,13,6421|8358|55183|84759,SFPQ|H3C2|RIF1|PCGF1,-0.33
+MyList,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-3.7,13,6.8,30337,709,13,4,31,13,1325|1902|1956|5516,CORT|LPAR1|EGFR|PPP2CB,-0.33
+MyList,GO Biological Processes,19,GO:0048511,rhythmic process,19_GO:0048511 rhythmic process,-3.7,26,8.5,30337,271,13,3,23,12,1956|3184|6421,EGFR|HNRNPD|SFPQ,-0.33
+MyList,WikiPathways,27,WP3932,Focal adhesion PI3K Akt mTOR signaling,,-3.6,23,8,30337,303,13,3,23,12,1902|1956|5516,LPAR1|EGFR|PPP2CB,-0.24
+MyList,Reactome Gene Sets,6,R-HSA-418594,G alpha (i) signalling events,,-3.5,22,7.8,30337,318,13,3,23,12,1325|1902|5516,CORT|LPAR1|PPP2CB,-0.22
+MyList,WikiPathways,27,WP4172,PI3K Akt signaling,,-3.4,21,7.5,30337,339,13,3,23,12,1902|1956|5516,LPAR1|EGFR|PPP2CB,-0.17
+MyList,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-3.4,19,7.3,30337,362,13,3,23,12,1902|1956|5516,LPAR1|EGFR|PPP2CB,-0.13
+MyList,Reactome Gene Sets,6,R-HSA-449147,Signaling by Interleukins,,-3,15,6.3,30337,473,13,3,23,12,5034|5516|8358,P4HB|PPP2CB|H3C2,0
+MyList,GO Biological Processes,19,GO:0006281,DNA repair,19_GO:0050896 response to stimulus,-2.9,14,6,30337,515,13,3,23,12,6421|9577|55183,SFPQ|BABAM2|RIF1,0
+MyList,GO Biological Processes,19,GO:0080135,regulation of cellular response to stress,19_GO:0050896 response to stimulus,-2.9,13,5.9,30337,526,13,3,23,12,1956|9577|55183,EGFR|BABAM2|RIF1,0
+MyList,GO Biological Processes,19,GO:0071396,cellular response to lipid,19_GO:0050896 response to stimulus,-2.9,13,5.8,30337,536,13,3,23,12,1902|1956|3184,LPAR1|EGFR|HNRNPD,0
+MyList,Reactome Gene Sets,6,R-HSA-109582,Hemostasis,,-2.7,11,5.4,30337,622,13,3,23,12,5516|7018|8358,PPP2CB|TF|H3C2,0
+MyList,GO Biological Processes,19,GO:2000147,positive regulation of cell motility,19_GO:0040011 locomotion,-2.7,11,5.3,30337,623,13,3,23,12,1902|1956|7018,LPAR1|EGFR|TF,0
+MyList,GO Biological Processes,19,GO:0040017,positive regulation of locomotion,19_GO:0040011 locomotion,-2.6,11,5.3,30337,637,13,3,23,12,1902|1956|7018,LPAR1|EGFR|TF,0
+MyList,Reactome Gene Sets,6,R-HSA-1640170,Cell Cycle,,-2.5,10,5,30337,693,13,3,23,12,5516|8358|9577,PPP2CB|H3C2|BABAM2,0
+MyList,GO Biological Processes,19,GO:0007420,brain development,19_GO:0032502 developmental process,-2.5,9.6,4.9,30337,731,13,3,23,12,1902|1956|3184,LPAR1|EGFR|HNRNPD,0
+MyList,GO Biological Processes,19,GO:0006259,DNA metabolic process,19_GO:0008152 metabolic process,-2.5,9.5,4.8,30337,734,13,3,23,12,6421|9577|55183,SFPQ|BABAM2|RIF1,0
+MyList,GO Biological Processes,19,GO:0006974,DNA damage response,19_GO:0050896 response to stimulus,-2.4,9,4.7,30337,781,13,3,23,12,6421|9577|55183,SFPQ|BABAM2|RIF1,0
+MyList,GO Biological Processes,19,GO:0060322,head development,19_GO:0032502 developmental process,-2.4,9,4.7,30337,781,13,3,23,12,1902|1956|3184,LPAR1|EGFR|HNRNPD,0
+MyList,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-2.4,8.9,4.7,30337,786,13,3,23,12,5034|5516|8358,P4HB|PPP2CB|H3C2,0

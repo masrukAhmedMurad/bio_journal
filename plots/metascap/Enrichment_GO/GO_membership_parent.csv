@@ -1,0 +1,10 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-4.588132909989681,GO:0048518,positive regulation of biological process,M1,1,GO:1902895 positive regulation of miRNA transcription
+1,-4.207168886492806,GO:0008152,metabolic process,M1,1,GO:1902893 regulation of miRNA transcription
+1,-3.7964757948425576,GO:0050896,response to stimulus,M1,1,GO:0060828 regulation of canonical Wnt signaling pathway
+1,-3.7903268715281206,GO:0048511,rhythmic process,M1,1,GO:0048511 rhythmic process
+1,-3.360725702378912,GO:0048519,negative regulation of biological process,M1,1,GO:0090090 negative regulation of canonical Wnt signaling pathway
+1,-3.227538680089935,GO:0009987,cellular process,M1,1,GO:0006338 chromatin remodeling
+1,-2.718361332989932,GO:0032502,developmental process,M1,1,GO:0061061 muscle structure development
+1,-2.6679880627098025,GO:0065007,biological regulation,M1,1,GO:0010817 regulation of hormone levels
+1,-2.47153779802581,GO:0051179,localization,M1,1,GO:0030100 regulation of endocytosis

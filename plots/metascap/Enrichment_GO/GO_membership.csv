@@ -1,0 +1,64 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-4.4,GO:2000630,positive regulation of miRNA metabolic process,M1,1,0
+1,-3.8,GO:0060828,regulation of canonical Wnt signaling pathway,M1,1,0
+1,-4,GO:2000628,regulation of miRNA metabolic process,M1,1,0
+1,-2.8,GO:0006486,protein glycosylation,M1,1,0
+1,-2.2,GO:0009895,negative regulation of catabolic process,M1,1,0
+1,-3.2,GO:0006338,chromatin remodeling,M1,1,0
+1,-3,R-HSA-1280215,Cytokine Signaling in Immune system,M1,1,0
+1,-2.9,GO:0071407,cellular response to organic cyclic compound,M1,1,0
+1,-3.4,GO:0090090,negative regulation of canonical Wnt signaling pathway,M1,1,0
+1,-3.4,GO:0070482,response to oxygen levels,M1,1,0
+1,-3.3,hsa04390,Hippo signaling pathway,M1,1,0
+1,-2.7,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-3,GO:0009314,response to radiation,M1,1,0
+1,-2.4,GO:0071214,cellular response to abiotic stimulus,M1,1,0
+1,-2.4,GO:0104004,cellular response to environmental stimulus,M1,1,0
+1,-2.2,R-HSA-372790,Signaling by GPCR,M1,1,0
+1,-2.1,GO:2001233,regulation of apoptotic signaling pathway,M1,1,0
+1,-3.4,GO:0010038,response to metal ion,M1,1,0
+1,-2.5,GO:1901137,carbohydrate derivative biosynthetic process,M1,1,0
+1,-2.4,WP3932,Focal adhesion PI3K Akt mTOR signaling,M1,1,0
+1,-2.9,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,M1,1,0
+1,-2.2,GO:0019221,cytokine-mediated signaling pathway,M1,1,0
+1,-3.2,hsa04141,Protein processing in endoplasmic reticulum,M1,1,0
+1,-2.8,GO:0051052,regulation of DNA metabolic process,M1,1,0
+1,-2.3,R-HSA-195721,Signaling by WNT,M1,1,0
+1,-3.6,GO:0051054,positive regulation of DNA metabolic process,M1,1,0
+1,-2.8,GO:0034976,response to endoplasmic reticulum stress,M1,1,0
+1,-2.4,R-HSA-388396,GPCR downstream signalling,M1,1,0
+1,-2.3,hsa05165,Human papillomavirus infection,M1,1,0
+1,-2,WP3888,VEGFA VEGFR2 signaling,M1,1,0
+1,-2.4,R-HSA-418594,G alpha (i) signalling events,M1,1,0
+1,-2.4,GO:0001666,response to hypoxia,M1,1,0
+1,-3.6,WP2431,Spinal cord injury,M1,1,0
+1,-2.8,GO:0006282,regulation of DNA repair,M1,1,0
+1,-2.7,GO:0010817,regulation of hormone levels,M1,1,0
+1,-2.6,GO:0009101,glycoprotein biosynthetic process,M1,1,0
+1,-2,GO:0031349,positive regulation of defense response,M1,1,0
+1,-3.4,GO:0030111,regulation of Wnt signaling pathway,M1,1,0
+1,-2.2,hsa04151,PI3K-Akt signaling pathway,M1,1,0
+1,-2.4,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-2.7,GO:0061061,muscle structure development,M1,1,0
+1,-2.9,WP3594,Circadian rhythm genes,M1,1,0
+1,-3.5,GO:0045739,positive regulation of DNA repair,M1,1,0
+1,-2.6,GO:0040029,epigenetic regulation of gene expression,M1,1,0
+1,-3.1,GO:0030178,negative regulation of Wnt signaling pathway,M1,1,0
+1,-2.8,R-HSA-201681,TCF dependent signaling in response to WNT,M1,1,0
+1,-2.7,GO:0071396,cellular response to lipid,M1,1,0
+1,-2.6,R-HSA-1257604,PIP3 activates AKT signaling,M1,1,0
+1,-4.2,GO:1902893,regulation of miRNA transcription,M1,1,0
+1,-2.5,GO:0030100,regulation of endocytosis,M1,1,0
+1,-3.4,GO:0007623,circadian rhythm,M1,1,0
+1,-2.2,GO:0006979,response to oxidative stress,M1,1,0
+1,-2.2,GO:0006259,DNA metabolic process,M1,1,0
+1,-2.9,R-HSA-449147,Signaling by Interleukins,M1,1,0
+1,-2.8,GO:0043413,macromolecule glycosylation,M1,1,0
+1,-2.3,GO:0009100,glycoprotein metabolic process,M1,1,0
+1,-3.1,GO:0071345,cellular response to cytokine stimulus,M1,1,0
+1,-2.4,R-HSA-9006925,Intracellular signaling by second messengers,M1,1,0
+1,-3.8,GO:0048511,rhythmic process,M1,1,0
+1,-2.6,GO:0032103,positive regulation of response to external stimulus,M1,1,0
+1,-2.8,GO:0070085,glycosylation,M1,1,0
+1,-4.6,GO:1902895,positive regulation of miRNA transcription,M1,1,0
+1,-2.3,WP4172,PI3K Akt signaling,M1,1,0

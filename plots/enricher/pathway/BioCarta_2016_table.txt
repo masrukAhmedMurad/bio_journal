@@ -1,0 +1,19 @@
+Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Multi-Drug Resistance Factors Homo sapiens h mrpPathway	1/6	0.009265092249714469	0.05001031653941204	0	0	133.09333333333333	623.0766346487915	ABCC1
+CBL mediated ligand-induced downregulation of EGF receptors Homo sapiens h cblPathway	1/8	0.012334969042911155	0.05001031653941204	0	0	95.05714285714286	417.8062796500496	EGFR
+Rho-Selective Guanine Exchange Factor AKAP13 Mediates Stress Fiber Formation Homo sapiens h akap13Pathway	1/11	0.016922534733464	0.05001031653941204	0	0	66.53	271.3831303578043	LPAR1
+IL22 Soluble Receptor Signaling Pathway  Homo sapiens h il22bppathway	1/11	0.016922534733464	0.05001031653941204	0	0	66.53	271.3831303578043	IL10RA
+IL-10 Anti-inflammatory Signaling Pathway Homo sapiens h il10Pathway	1/13	0.019969450260865367	0.05001031653941204	0	0	55.43611111111111	216.95208467294643	IL10RA
+Phosphorylation of MEK1 by cdk5/p35 down regulates the MAP kinase pathway Homo sapiens h cdk5Pathway	1/14	0.02148947938555657	0.05001031653941204	0	0	51.16923076923077	196.4996601316088	EGR1
+Hypoxia-Inducible Factor in the Cardiovascular System Homo sapiens h hifPathway	1/16	0.024522696784534302	0.05001031653941204	0	0	44.34222222222222	164.42788585185278	P4HB
+Map Kinase Inactivation of SMRT Corepressor Homo sapiens h egfr smrtePathway	1/17	0.026035891626597026	0.05001031653941204	0	0	41.56875	151.65440789573447	EGFR
+ER?associated degradation (ERAD) Pathway Homo sapiens h eradPathway	1/19	0.02905547000861942	0.05001031653941204	0	0	36.946296296296296	130.736261970552	MAN1A2
+Sprouty regulation of tyrosine kinase signals Homo sapiens h spryPathway	1/20	0.030561860107418466	0.05001031653941204	0	0	35.0	122.08008572013848	EGFR
+EGF Signaling Pathway Homo sapiens h egfPathway	1/20	0.030561860107418466	0.05001031653941204	0	0	35.0	122.08008572013848	EGFR
+Role of ERBB2 in Signal Transduction and Oncology Homo sapiens h her2Pathway	1/28	0.04253183431893138	0.0611535682841569	0	0	24.619753086419752	77.73693045847051	EGFR
+mCalpain and friends in Cell motility Homo sapiens h mCalpainPathway	1/30	0.0455019066193127	0.0611535682841569	0	0	22.919540229885058	70.82140338003367	EGFR
+Role of EGF Receptor Transactivation by GPCRs in Cardiac Hypertrophy Homo sapiens h cardiacegfPathway	1/33	0.04994030455802936	0.0611535682841569	0	0	20.767708333333335	62.2393036656038	EGFR
+Angiotensin II mediated activation of JNK Pathway via Pyk2 dependent signaling Homo sapiens h At1rPathway	1/34	0.051415327328444255	0.0611535682841569	0	0	20.13737373737374	59.76407945997836	EGFR
+Trefoil Factors Initiate  Mucosal Healing Homo sapiens h tffPathway	1/36	0.05435872736369502	0.0611535682841569	0	0	18.984761904761903	55.2864763029152	EGFR
+Agrin in Postsynaptic Differentiation Homo sapiens h agrPathway	1/47	0.07039011205855722	0.07453070688553118	0	0	14.43695652173913	38.311387316676615	EGFR
+Keratinocyte Differentiation Homo sapiens h keratinocytePathway	1/53	0.07902332022213049	0.07902332022213049	0	0	12.767307692307693	32.40358367230175	EGFR
